@@ -1,0 +1,5 @@
+{
+    "num_epochs": 100,
+    "n_classes": [10, 20, 40, 80],
+    "batch_size": 1024
+}
